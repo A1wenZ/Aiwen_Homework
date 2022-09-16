@@ -1,0 +1,4 @@
+arr = [1, 5, 6, 8, 10]
+for x in arr:
+  if (x == 10):
+    print("there is a 10")
